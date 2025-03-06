@@ -1,4 +1,4 @@
-# Projet 3
+# 42 Boost Landing Page
 
 ## Description
 Ce projet est une application web construite avec Next.js.
